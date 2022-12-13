@@ -1,0 +1,3 @@
+Symlinking /home/turtlebot3remote/iiwa_stack_ws/devel/lib/pkgconfig/iiwa_control.pc
+Symlinking /home/turtlebot3remote/iiwa_stack_ws/devel/share/iiwa_control/cmake/iiwa_controlConfig.cmake
+Symlinking /home/turtlebot3remote/iiwa_stack_ws/devel/share/iiwa_control/cmake/iiwa_controlConfig-version.cmake
